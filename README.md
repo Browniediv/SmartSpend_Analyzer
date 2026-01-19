@@ -26,14 +26,15 @@ The application focuses on identifying spending patterns and highlighting unnece
 SmartSpender-Analyze/
 │
 ├backend/ # Server-side logic
-
+|
 ├frontend/ # Client-side interface
-
+|
 ├database/ # Database configuration
-
+|
 ├README.md # Project documentation
-
+|
 └ package.json # Dependencies and scripts
+
 ---
 
 🎯 Purpose of the Project
@@ -44,5 +45,6 @@ and data analysis concepts.
 📜 License
 
 This project is intended for educational purposes only.
+
 
 
