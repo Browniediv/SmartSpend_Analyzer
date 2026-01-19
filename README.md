@@ -25,6 +25,7 @@ The application focuses on identifying spending patterns and highlighting unnece
 
 SmartSpender-Analyze/
 │
+
 ├backend/ # Server-side logic
 
 ├frontend/ # Client-side interface
@@ -45,6 +46,7 @@ and data analysis concepts.
 📜 License
 
 This project is intended for educational purposes only.
+
 
 
 
