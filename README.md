@@ -26,19 +26,16 @@ The application focuses on identifying spending patterns and highlighting unnece
 SmartSpender-Analyze/
 │
 ├backend/ # Server-side logic
+
 ├frontend/ # Client-side interface
+
 ├database/ # Database configuration
+
 ├README.md # Project documentation
+
 └ package.json # Dependencies and scripts
 ---
-## Install required dependencies
 
-   npm install
----
-## Start the application
-
-   npm start
----
 🎯 Purpose of the Project
 
 This project is developed as an academic and learning-based project to gain hands-on experience in full-stack web development, expense tracking systems,
@@ -47,4 +44,5 @@ and data analysis concepts.
 📜 License
 
 This project is intended for educational purposes only.
+
 
